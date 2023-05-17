@@ -1,0 +1,180 @@
+.heading h1{
+    background-color: aqua;
+    border: 5px solid red;
+    text-align: center;
+    margin:20px 450px 10px 450px;
+    border-radius: 100px;
+}
+.bio{
+    margin: 30px 10px 10px 10px;
+    border: 5px solid rgb(221, 147, 82);
+    padding: 10px;
+    background-color: rgb(199, 231, 240);
+
+    /* background-image: url(https://th.bing.com/th/id/R.fd0b3a0fa0a285ed06b590fa72d1c9af?rik=%2bwKQ3%2f3xOKcuDg&riu=http%3a%2f%2f4.bp.blogspot.com%2f-Nsf_2Vmo3Zg%2fTra9Q18aKTI%2fAAAAAAAAATo%2f7FPHFLskL8g%2fs320%2fSachin-50th-Test-100.jpg&ehk=xYfr%2fsCql53PbAoXQIkGr93kCUXNvWVbjliu%2bpuvLPA%3d&risl=&pid=ImgRaw&r=0) */
+    
+}
+ .bio h2{
+    color: rgb(23, 190, 135);
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-left: 20px;
+}
+ .bio p{
+    margin-top: -23px;
+    border-color: rgb(169, 169, 179);
+    line-height: 29px;
+    font-size:larger;
+    word-spacing: 10px;
+    text-align:justify;
+    padding:5px;
+   
+}  
+.bio a{
+    color: rgb(122, 108, 108);
+    background-color: #333;
+    padding: 10px;
+    text-decoration: none;
+   
+}
+ a:hover{
+    background-color: rgb(48, 121, 42);
+}
+.history {
+    margin: 30px 10px 10px 10px;
+    border: 5px solid rgb(56, 58, 192);
+    padding: 10px;
+    background-color: rgb(214, 184, 172);
+
+}
+.history h2{
+    color: rgb(93, 12, 214);
+    text-decoration:underline;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.history p{
+    border-color: rgb(36, 36, 184);
+    line-height: 29px;
+    font-size:larger;
+    text-decoration:dotted;
+    word-spacing: 10px;
+    text-align:justify;
+    padding:5px;
+    padding: 30px;
+}
+.history a{
+    color: rgb(202, 77, 77);
+    background-color: #333;
+    padding: 10px;
+    text-decoration: none;
+}
+ a:hover{
+    background-color: red;
+}
+.rewards {
+    margin: 10px 70% 5px 0px;
+    border: 2px solid lightblue;
+    padding: 2px;
+    margin-left: 10px;
+    background-color: lightgoldenrodyellow;
+
+}
+ .rewards h2{
+    color: rgb(146, 220, 49);
+    text-decoration:underline;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+.rewards p{
+    border-color: rgb(122, 122, 219);
+    padding: 2px;
+}
+.ipl {
+    width: 33%;
+    border: 2px solid lightblue;
+    padding: 2px;
+    margin-left: 385px;
+    margin-top: -460px;
+    text-align: center;
+    background-color: lightblue;
+
+
+}
+ .ipl h2{
+    color: rgb(19, 126, 213);
+    text-decoration:underline;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+.ipl p{
+    border-color: rgb(26, 26, 209);
+    padding: 2px;
+}
+.playstyle {
+    width: 33%;
+    border: 2px solid lightblue;
+    padding: 2px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: right;
+    text-align: center;
+    margin-top: -454px;
+    background-color: lightgray;
+}
+ .playstyle h2{
+    color: rgb(22, 170, 215);
+    text-decoration:underline;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+.playstyle p{
+    border-color: rgb(122, 122, 219);
+    padding: 2px;
+}
+
+.Sachin{
+    margin-left: 10px;
+    width: 32%;
+    padding-left: 4px;
+    padding: 5px;
+    background-color: rgb(204, 144, 121);
+}
+.images {
+   margin-left: 35%; 
+   margin-top: -222px;
+   border: 5px solid red;
+   width: 32%;
+   /* background-image: url("C:\HTML Tasks\Sachin\images\sachin2.jpg"); */
+   background-color: rgb(212, 172, 178);
+   height: 210px;
+}
+.fixed{
+    float: right;
+    position: fixed;
+  bottom: 18.5%;
+  right: 1.3%;
+  margin: 3px;
+  
+
+}
+.fixed1{
+    float: right;
+    position: fixed;
+  bottom: 0.5%;
+  right: 1.3%;
+  margin: 3px;
+  
+}
+.fixed2{
+    float: right;
+    position: fixed;
+  bottom: 35.5%;
+  right: 1%;
+  margin: 3px;
+  
+}
